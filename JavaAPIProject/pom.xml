@@ -10,6 +10,13 @@
   <dependencies>
 
     <dependency>
+      <groupId>uk.co.conoregan</groupId>
+      <artifactId>themoviedbapi</artifactId>
+      <version>2.3.1</version>
+    </dependency>
+
+
+    <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
             <version>20230227</version> <!-- latest stable -->
